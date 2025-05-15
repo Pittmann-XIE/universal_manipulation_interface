@@ -1,4 +1,4 @@
-# Universal Manipulation Interface
+# Universal Manipulation Interfacem
 
 [[Project page]](https://umi-gripper.github.io/)
 [[Paper]](https://umi-gripper.github.io/#paper)
